@@ -1,6 +1,6 @@
 # 📱 Smartphones Market Application
 
-## 📌 Descripcion
+## Descripción
 
 Los avances tecnológicos existentes en la actualidad hacen que nuestra forma
 de comunicarnos cada vez este más sumergida en la innovación y en las nuevas funcionalidades,
